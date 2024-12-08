@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التطبيق</string>
+    <string name="update">تحديث</string>
+    <string name="shape">شكل</string>
+    <string name="full_name">"الاسم "</string>
+    <string name="email">الايميل</string>
+    <string name="profile">الصفحه الشخصيه</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+</resources>
